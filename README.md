@@ -27,18 +27,18 @@ In this talk, I will present the concept of digital rhetoric which refers both t
 #### Moderator: Antti Kanner
 
 ## Ulla Moilanen (Researcher, Docent) University of Turku
-
 ### AADA - Archaeological Artefact Database of Finland
 
 The AADA - Archaeological Artefact Database of Finland is an online repository that provides access to information on archaeological artifacts discovered in Finland. It serves as a centralized digital platform for researchers, archaeologists, and the general public to explore the archaeological heritage of the country. The database includes details about the find location, context, and characteristics of artifacts, as well as photographs and descriptions of the finds. AADA also facilitates spatial research by providing information about the find locations of artefacts. This enables researchers to analyze the distribution of archaeological finds in relation to their environment, and allows them to examine how specific artifact types or cultural features are distributed across different regions, thus aiding in studies of trade routes, settlement patterns, and historical interactions, etc.
 
 ## Aleksi Sahala (Postdoctoral Researcher, Centre of Excellence in Ancient Near Eastern Empires (ANEE)
-
 ### NLP approaches to ancient languages of Mesopotamia
 
 ## Filip Ginter
+### Extraction of information from multilingual scientific literature with large language models
 
-### TBA
+Large language models (LLMs) have shown great capacity to interpret human language and are no longer just an entertaining toy.
+Rather, they can be viewed as a useful tool to help with mundane tasks on large datasets. Moreover, modern LLMs are fluently multilingual, allowing aggregation of information from texts across different languages. In this short demonstration, we will see the application of LLMs to question-answering based information extraction from Russian-language archeological literature. In the followup discussion, we can consider its potential and ways to benchmark the relative merit of such tools in research work.
 
 ## 15:00-15:30 Coffee break
 
@@ -46,9 +46,10 @@ The AADA - Archaeological Artefact Database of Finland is an online repository t
 #### Chair: Hanna-Mari Kupari
 
 ## Kalle Korhonen (University of Helsinki and Kone Foundation)
-
 ### An instance of sustained plurilingualism (or not?): Sicily, 6th c. BCE – 14th c. CE
 
 The two millennia discussed here witnessed the extinction of several languages, but also a period of sustained bilingualism between Ancient Greek (Medieval Greek) and Latin (Romance). In the paper I will present some of the more difficult issues in the study of ancient Sicilian plurilingualism.
 
+Registration is open:
+https://link.webropolsurveys.com/S/82DC72729647D03E
 
