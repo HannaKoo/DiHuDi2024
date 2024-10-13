@@ -1,12 +1,17 @@
-# DiHuDi2024
-### Diversity in Human Diversity 2024
+# Diversity in Human Diversity 2024
+### -- Space and place --
+#### Digital language studies, University of Turku
 
-## The second annual Diversity in Human Diversity minisymposium 2024 - Space and place in digital humanities research
+## The second annual Diversity in Human Diversity minisymposium 2024
+
+### Timetable:
+7th on November, University of Turku campus and Zoom
+Zoom details and information about lecture halls will be sent to participants after registration
 
 10:30 Registration desk opens
 ### 11:15 Opening words: Veronika Laippala
 
-### 11: 30-12:30 Session 1: Digital linguistics: methods and rhetorics
+### 11:30-12:30 Session 1: Digital linguistics: methods and rhetorics
 #### Chair: Veronika Laippala
 
 ## Olli Kuparinen (Academy Research Fellow), Tampere University
@@ -34,7 +39,7 @@ The AADA - Archaeological Artefact Database of Finland is an online repository t
 ## Aleksi Sahala (Postdoctoral Researcher, Centre of Excellence in Ancient Near Eastern Empires (ANEE)
 ### NLP approaches to ancient languages of Mesopotamia
 
-## Filip Ginter
+## Filip Ginter (TurkuNLP, University of Turku)
 ### Extraction of information from multilingual scientific literature with large language models
 
 Large language models (LLMs) have shown great capacity to interpret human language and are no longer just an entertaining toy.
@@ -42,7 +47,7 @@ Rather, they can be viewed as a useful tool to help with mundane tasks on large 
 
 ## 15:00-15:30 Coffee break
 
-## 15:30-16:30 Key note session
+## 15:30-16:30 Keynote session
 #### Chair: Hanna-Mari Kupari
 
 ## Kalle Korhonen (University of Helsinki and Kone Foundation)
@@ -50,6 +55,10 @@ Rather, they can be viewed as a useful tool to help with mundane tasks on large 
 
 The two millennia discussed here witnessed the extinction of several languages, but also a period of sustained bilingualism between Ancient Greek (Medieval Greek) and Latin (Romance). In the paper I will present some of the more difficult issues in the study of ancient Sicilian plurilingualism.
 
-Registration is open:
+The event is free for participants, registration is mandatory for all types of participation. Register by October 31st.
+
+
+
+### Registration link:
 https://link.webropolsurveys.com/S/82DC72729647D03E
 
