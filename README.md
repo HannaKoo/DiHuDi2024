@@ -5,7 +5,7 @@
 ## The second annual Diversity in Human Diversity minisymposium 2024
 
 ### Timetable:
-7th on November, University of Turku campus and Zoom
+7th on November, University of Turku campus and 
 Zoom details and information about lecture halls will be sent to participants after registration
 
 10:30 Registration desk opens
