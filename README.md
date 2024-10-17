@@ -57,8 +57,30 @@ The two millennia discussed here witnessed the extinction of several languages, 
 
 The event is free for participants, registration is mandatory for all types of participation. Register by October 31st.
 
-
-
 ### Registration link:
 https://link.webropolsurveys.com/S/82DC72729647D03E
+
+# Need accomodation in Turku?
+
+ We are happy to offer your guests a discount using a booking code at Scandic, ask for event booking code!
+- Reservations can be made at scandichotels.com
+- Guests can choose their preferred hotel in Turku and the room type, and receive an additional discount when paying for the reservation upon booking.
+- The cancellation policy for individual bookings depends on the booking type chosen by the guest.
+- To confirm the reservation, guests must provide a valid credit card information.
+- Rooms are subject to availability and should be booked 10 days before arrival at the latest. 
+- Scandic Friends members should also check for available loyalty offers.
+
+# Want to see the city of Turku during your visit?
+
+Plese see the information with our partner organizer:
+
+- About Turku<https://en.visitturku.fi/about-turku>
+- Eat and drink<https://en.visitturku.fi/eat-and-drink>
+- See and do<https://en.visitturku.fi/see-and-do>
+- Sustainable travel<https://en.visitturku.fi/sustainable-travel>
+ 
+## How to get to Turku?
+Getting to Turku<https://en.visitturku.fi/welcome-to-turku>
+ 
+
 
