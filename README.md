@@ -62,13 +62,30 @@ https://link.webropolsurveys.com/S/82DC72729647D03E
 
 # Need accomodation in Turku?
 
- We are happy to offer your guests a discount using a booking code at Scandic, ask for event booking code!
+### Sandic 
+
+We are happy to offer your guests a discount using a booking code at Scandic, ask for event booking code!
 - Reservations can be made at scandichotels.com
 - Guests can choose their preferred hotel in Turku and the room type, and receive an additional discount when paying for the reservation upon booking.
 - The cancellation policy for individual bookings depends on the booking type chosen by the guest.
 - To confirm the reservation, guests must provide a valid credit card information.
 - Rooms are subject to availability and should be booked 10 days before arrival at the latest. 
 - Scandic Friends members should also check for available loyalty offers.
+
+### Bob W
+
+Follow the steps below to book your stay through bobw.co 
+
+1. Select your city, dates and guests and then click Search
+2. then select APPLY VOUCHER and add your company code there (ask for this from me!)
+3. Select your preferred apartment and see discounted prices 
+4. Check reservation details
+5. Check summary and Book
+6. Payment by credit card 
+Welcome to Bob W!
+
+Exceptionally cool Bob W Turku City Centre is in the heart of the city: There's a vibrant market, plenty of cafes and restaurants, and all the big shopping spots next to you. It's a major stop for public transport, making it easy to see the rest of the city, and it’s where all things business happens.
+Bob W Turku City Centre has studios and one bedroom apartments. You have all practical things and a kitchenette with fridge and microwave, comfy bed, space to work and dine, fast WiFi, 24/7 support and fun stuff like a gaming console, yoga mats and smart TV. 
 
 # Want to see the city of Turku during your visit?
 
