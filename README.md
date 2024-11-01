@@ -4,6 +4,8 @@
 
 ## The second annual Diversity in Human Diversity minisymposium 2024
 
+## All sessions in Cal2 lecture hall in Calonia, University of Turku campus
+
 ### Timetable:
 7th on November, University of Turku campus and 
 Zoom details and information about lecture halls will be sent to participants after registration
