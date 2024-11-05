@@ -11,7 +11,8 @@
 Zoom details and information about lecture halls will be sent to participants after registration
 
 10:30 Registration desk opens
-### 11:15 Opening words: Veronika Laippala
+### 11:15 Opening words: Matti Peikola (UTULING director, Professor, University of Turku)
+### 11:20 This is Human Diversity: Päivi Onkamo (Human Diversity consortuim PI, Professor, University of Turku) 
 
 ### 11:30-12:30 Session 1: Digital linguistics: methods and rhetorics
 #### Chair: Veronika Laippala
