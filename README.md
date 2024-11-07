@@ -4,7 +4,7 @@
 
 ## The second annual Diversity in Human Diversity minisymposium 2024
 
-## All sessions in Cal2 lecture hall in Calonia, University of Turku campus
+## All sessions in **Cal2** lecture hall in Calonia, University of Turku campus
 
 ### Timetable:
 7th on November, University of Turku campus and 
@@ -12,7 +12,7 @@ Zoom details and information about lecture halls will be sent to participants af
 
 10:30 Registration desk opens
 ### 11:15 Opening words: Matti Peikola (UTULING director, Professor, University of Turku)
-### 11:20 This is Human Diversity: Päivi Onkamo (Human Diversity consortuim PI, Professor, University of Turku) 
+### 11:20 This is Human Diversity: Veronika Laippala (Human Diversity consortium PI, Professor, University of Turku) 
 
 ### 11:30-12:30 Session 1: Digital linguistics: methods and rhetorics
 #### Chair: Veronika Laippala
@@ -34,7 +34,10 @@ In this talk, I will present the concept of digital rhetoric which refers both t
 ## 14:00-15:00 Panel: Dialogues in Data: Innovations in Merging Disciplines in Digital Humanities (short presentations and discussion)
 #### Moderator: Antti Kanner
 
-## Ulla Moilanen (Researcher, Docent) University of Turku
+**CANCELLED** ## Ulla Moilanen (Researcher, Docent, University of Turku
+
+**ADDED**
+### Outi Vesakoski (TIAS fellow, Title of Docent, University of Turku)
 ### AADA - Archaeological Artefact Database of Finland
 
 The AADA - Archaeological Artefact Database of Finland is an online repository that provides access to information on archaeological artifacts discovered in Finland. It serves as a centralized digital platform for researchers, archaeologists, and the general public to explore the archaeological heritage of the country. The database includes details about the find location, context, and characteristics of artifacts, as well as photographs and descriptions of the finds. AADA also facilitates spatial research by providing information about the find locations of artefacts. This enables researchers to analyze the distribution of archaeological finds in relation to their environment, and allows them to examine how specific artifact types or cultural features are distributed across different regions, thus aiding in studies of trade routes, settlement patterns, and historical interactions, etc.
